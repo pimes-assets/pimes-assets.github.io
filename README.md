@@ -1,11 +1,12 @@
 # Pimes landing page
 
+```
+Estimadas Pymes - 
 
-                Estimadas Pymes - 
+Lo sentimos mucho. Actualmente no estamos recibiendo solicitudes de crédito. Les deseamos éxitos en el crecimiento de su negocio.
 
-                Lo sentimos mucho. Actualmente no estamos recibiendo solicitudes de crédito. Les deseamos éxitos en el crecimiento de su negocio.
-
-                Equipo Pimes
+Equipo Pimes
+```
 
 
 ## Deployment
